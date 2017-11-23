@@ -29,6 +29,9 @@ a {
 .port{
   text-decoration: none;
   color: pink;
+  -webkit-transition: 0 ;
+  -moz-transition:0;
+  transition: all 0;
 }
 h1,
 h2,
