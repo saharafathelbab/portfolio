@@ -26,17 +26,17 @@
 .firsthalf{
   background-image: url('firsthalfphoto.png');
   height: 570px;
-  width: 700px;
+  width: 1080px;
 }
 
 .secondhalf{
   background-image: url('secondhalfphoto.png');
   height: 570px;
-  width: 700px;
+  width: 1080px;
 }
 
 .thirdhalf{
   background-image: url('thirdphoto.png');
   height: 570px;
-  width: 700px;
+  width: 1080px;
 }
