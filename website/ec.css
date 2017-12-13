@@ -22,3 +22,18 @@
   font-family:'Kaushan Script';
   color: white;
 }
+
+.firsthalf{
+  background-image: url('firsthalfphoto.png');
+  height: 570px;
+}
+
+.secondhalf{
+  background-image: url('secondhalfphoto.png');
+  height: 570px;
+}
+
+.thirdhalf{
+  background-image: url('thirdphoto.png');
+  height: 570px;
+}
