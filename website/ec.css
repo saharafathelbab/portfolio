@@ -22,21 +22,17 @@
   font-family:'Kaushan Script';
   color: white;
 }
+.pdf{
 
-.firsthalf{
-  background-image: url('firsthalfphoto.png');
-  height: 570px;
-  width: 2000px;
+  font-family:'Oswald';
+  color: black;
 }
 
-.secondhalf{
-  background-image: url('secondhalfphoto.png');
-  height: 570px;
-  width: 2000px;
+.actpdf{
+  font-family:'Oswald';
+  color: black;
 }
 
-.thirdhalf{
-  background-image: url('thirdphoto.png');
-  height: 570px;
-  width: 2000px;
+.actpdf:hover{
+  color: grey;
 }
