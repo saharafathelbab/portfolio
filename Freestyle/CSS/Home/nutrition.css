@@ -1,0 +1,23 @@
+.twoo{
+  height: 400px;
+  width: 300px;
+}
+.summary2{
+  position:absolute;
+  top: 550px;
+  left: 30px;
+  width: 30%;
+  height:50%;
+  color: black;
+  background-color: white;
+}
+.photo2{
+  height: 400px;
+  width: 650px;
+}
+.phototwo{
+  position: absolute;
+  top: 500px;
+  right: 180px;
+  width: 40%;
+}

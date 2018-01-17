@@ -1,0 +1,60 @@
+.header{
+  background-image: url("images/mountain.jpg");
+  background-repeat: no-repeat;
+  height: 550px;
+}
+
+.food{
+  background-image: url("images/food.png");
+  background-repeat: no-repeat;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: absolute;
+  left: 45%;
+  top: 30%;
+
+
+}
+
+.nav{
+  text-decoration: none;
+  color: black;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.nav:hover{
+  color: grey;
+}
+
+.rows{
+  height: 300px;
+  width: 200px;
+}
+
+
+
+.mealrow ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.mealrow ul li{
+  background-color: white;
+}
+
+.headerp{
+  background-image: url("images/beach.jpg");
+  background-repeat: no-repeat;
+  height: 200px;
+  width: 1080px;
+  margin-left: 0%;
+  margin-right: 3%;
+
+}
+
+.titlepart{
+  font-family: 'Oswald', sans-serif;
+  color: white;
+}
