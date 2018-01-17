@@ -1,11 +1,11 @@
 .header{
-  background-image: url("Recovercss/images/vibes.jpg");
+  background-image: url("images/vibes.jpg");
   background-repeat: no-repeat;
   height: 550px;
 }
 
 .reading{
-  background-image: url("Recovercss/images/sitting.png");
+  background-image: url("images/sitting.png");
   background-repeat: no-repeat;
   height: 200px;
   width: 200px;
