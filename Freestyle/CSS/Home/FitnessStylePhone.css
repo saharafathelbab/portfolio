@@ -18,6 +18,9 @@ body{
 }
 .photo1{
 
+  height: 200px;
+  width: 200px;
+
 }
 .summary{
   background-color: white;
@@ -25,7 +28,7 @@ body{
   top: 60px;
   right: 60px;
   width: 40%;
-  height: 30%;
+  height: 40%;
 }
 
 .one{
