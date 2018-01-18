@@ -1,0 +1,55 @@
+@media screen and (max-width: 1024px){
+
+
+body{
+  background-color: #000000;
+}
+
+.onee{
+  height: 400px;
+  width: 300px;
+}
+.photoone{
+  background-color: #0F97FE;
+  position:absolute;
+  top: 30px;
+  left: 30px;
+  width: 20%;
+}
+.photo1{
+
+}
+.summary{
+  background-color: white;
+  position: absolute;
+  top: 60px;
+  right: 60px;
+  width: 40%;
+  height: 30%;
+}
+
+.one{
+  background-color: black;
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 15px;
+  color: white;
+  width: 10em;
+  height: 2em;
+  border-style: hidden;
+
+}
+.one:hover{
+  background-color: grey;
+  color: black;
+}
+.number{
+  font-family: 'Metal Mania', cursive;
+}
+.titleblock{
+  font-family: 'Antic Didone', serif;
+}
+.sum{
+  font-family: 'EB Garamond', serif;
+
+}
+}
