@@ -12,9 +12,7 @@ body{
 .photoone{
   background-color: #0F97FE;
   position:absolute;
-  top: 30px;
-  left: 30px;
-  width: 20%;
+
 }
 .photo1{
 
@@ -26,9 +24,7 @@ body{
   background-color: white;
   position: absolute;
   top: 60px;
-  right: 60px;
-  width: 40%;
-  height: 40%;
+
 }
 
 .one{
