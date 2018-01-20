@@ -42,7 +42,7 @@
 }
 .center2{
   height:900px;
-  background:grey;
+  background: #DCDCDC;
 }
 
 .typing{
@@ -72,7 +72,7 @@
 .skillrow ul li {
     width: 150px;
     height: 100px;
-    background-color: #DCDCDC;
+    background-color: #ffffff;
     float: left;
 }
 
