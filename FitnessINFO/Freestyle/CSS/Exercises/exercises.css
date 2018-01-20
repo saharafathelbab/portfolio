@@ -1,0 +1,46 @@
+.header{
+  background-image: url("images/road.jpg");
+  background-repeat: no-repeat;
+  height: 550px;
+}
+
+.weight{
+  background-image: url("images/takefour.png");
+  background-repeat: no-repeat;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: absolute;
+  left: 43%;
+  top: 10%;
+
+
+}
+
+.rows{
+  height: 300px;
+  width: 200px;
+}
+
+
+.headerp{
+  background-image: url("images/ocean.jpg");
+  background-repeat: no-repeat;
+  height: 200px;
+
+
+}
+.titlepart{
+  font-family: 'Oswald', sans-serif;
+  color: white;
+}
+
+.nav{
+  text-decoration: none;
+  color: black;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.nav:hover{
+  color: grey;
+}
