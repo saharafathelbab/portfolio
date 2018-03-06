@@ -5,10 +5,7 @@
   left: 0px;
   width: 30%;
   height: 100%;
-
-
 }
-
 
 .summary{
   position: absolute;
@@ -42,11 +39,13 @@
 .one{
   background-color: black;
   border-style: none;
+  height: 500px
 
 }
 .one:hover{
   background-color: grey;
   border-style: none;
+  height: 50px;
 }
 .sumlink2:hover{
   color: #800000;
