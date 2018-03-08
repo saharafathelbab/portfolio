@@ -1,6 +1,7 @@
 input[type=text]{
   height: 50px;
   font-size: 3em;
+  width: 30px;
 }
 
 input[type=submit]{
