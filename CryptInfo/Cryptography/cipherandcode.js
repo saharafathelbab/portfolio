@@ -402,6 +402,10 @@ for (var y = 0; y < x.length; y++){
           arr.push(' ');
           break;
         }
+        else if (x.includes("I like to")){
+        arr.push('');
+        break;
+      }
 
         else if (x.includes('I really appreciate')){
           arr.push('');
@@ -860,6 +864,10 @@ for (var y = 0; y < x.length; y++){
           arr.push('');
           break;
         }
+        else if (x.includes("I like to")){
+        arr.push('');
+        break;
+      }
 
         else if (x.includes('Hi, how are you')){
           arr.push('');
@@ -988,6 +996,10 @@ for (var y = 0; y < x.length; y++){
          arr.push('');
          break;
        }
+       else if (x.includes("I like to")){
+       arr.push('');
+       break;
+     }
        else if (x.includes('thanks')){
          arr.push('');
          break;
@@ -1048,6 +1060,10 @@ for (var y = 0; y < x.length; y++){
          arr.push('');
          break;
        }
+       else if (x.includes("I like to")){
+       arr.push('');
+       break;
+     }
        else if (x.includes('Please')){
          arr.push('');
          break;
@@ -1431,7 +1447,12 @@ for (var y = 0; y < x.length; y++){
        if (x.includes('of')){
          arr.push('ABR');
          break;
-       } else if (x.includes('to')){
+       }
+       else if (x.includes("I like to")){
+       arr.push('');
+       break;
+     }
+       else if (x.includes('to')){
          arr.push(' ');
          break;
        }
@@ -1977,6 +1998,10 @@ for (var y = 0; y < x.length; y++){
          arr.push('ABRA');
          break;
        }
+       else if (x.includes("I like to")){
+       arr.push('');
+       break;
+     }
 
        else if (x.includes('it')){
          arr.push(' ');
@@ -2688,6 +2713,10 @@ for (var y = 0; y < x.length; y++){
           arr.push('AIHTGD');
           break;
         }
+        else if (x.includes("I like to")){
+        arr.push('ACIM');
+        break;
+      }
         // if the letter I is none of the above:
         else{
          arr.push('JJJ 0JY');
@@ -3079,10 +3108,15 @@ for (var y = 0; y < x.length; y++){
    else if(x.includes("they're")){
      arr.push('');
      break;
-   }  else if(x.includes("they're")){
+   }
+     else if(x.includes("they're")){
        arr.push('');
        break;
      }
+     else if (x.includes("I like to")){
+     arr.push('');
+     break;
+   }
 
     // if the single quotation mark is none of the above:
      else{
