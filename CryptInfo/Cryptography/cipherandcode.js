@@ -27,6 +27,10 @@ for (var y = 0; y < x.length; y++){
        arr.push('');
        break;
      }
+     else if (x.includes("eat")){
+     arr.push('');
+     break;
+   }
      else if(x.includes("hasn't")){
        arr.push('');
        break;
@@ -406,6 +410,10 @@ for (var y = 0; y < x.length; y++){
         arr.push('');
         break;
       }
+      else if (x.includes("eat")){
+      arr.push('AJBAE');
+      break;
+    }
 
         else if (x.includes('I really appreciate')){
           arr.push('');
@@ -1998,6 +2006,10 @@ for (var y = 0; y < x.length; y++){
        arr.push('');
        break;
      }
+     else if (x.includes("eat")){
+     arr.push('AJBAE');
+     break;
+   }
        else if (x.includes('to')){
          arr.push('ABRA');
          break;
