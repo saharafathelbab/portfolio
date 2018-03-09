@@ -285,6 +285,10 @@ for (var y = 0; y < x.length; y++){
          arr.push('');
          break;
        }
+       else if(x.includes('cook')){
+         arr.push('ALO');
+         break;
+       }
 
       // the letter c if none of the above:
        else{
@@ -1028,6 +1032,10 @@ for (var y = 0; y < x.length; y++){
          arr.push('');
          break;
        }
+       else if(x.includes('cook')){
+         arr.push('');
+         break;
+       }
        else{
          arr.push('YY YDD');
          break;
@@ -1614,6 +1622,10 @@ for (var y = 0; y < x.length; y++){
          }
          else if (x.includes('over')){
            arr.push('ALXVX');
+           break;
+         }
+         else if(x.includes('cook')){
+           arr.push('');
            break;
          }
 
