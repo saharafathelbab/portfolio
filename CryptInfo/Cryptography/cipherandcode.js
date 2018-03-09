@@ -2007,7 +2007,7 @@ for (var y = 0; y < x.length; y++){
        break;
      }
      else if (x.includes("eat")){
-     arr.push('AJBAE');
+     arr.push('');
      break;
    }
        else if (x.includes('to')){
