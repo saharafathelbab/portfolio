@@ -1994,14 +1994,14 @@ for (var y = 0; y < x.length; y++){
          arr.push('');
          break;
        }
-       else if (x.includes('to')){
-         arr.push('ABRA');
-         break;
-       }
        else if (x.includes("I like to")){
        arr.push('');
        break;
      }
+       else if (x.includes('to')){
+         arr.push('ABRA');
+         break;
+       }
 
        else if (x.includes('it')){
          arr.push(' ');
