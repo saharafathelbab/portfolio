@@ -396,10 +396,16 @@ for (var y = 0; y < x.length; y++){
         if (x.includes('be')){
           arr.push(' ');
           break;
-        } else if (x.includes('we')){
+        }
+        else if (x.includes('we')){
             arr.push(' ');
             break;
-        } else if (x.includes('he')){
+        }
+        else if (x.includes("eat")){
+        arr.push('AJBAE');
+        break;
+      }
+         else if (x.includes('he')){
           arr.push(' ');
           break;
         } else if(x.includes('me')){
@@ -410,10 +416,6 @@ for (var y = 0; y < x.length; y++){
         arr.push('');
         break;
       }
-      else if (x.includes("eat")){
-      arr.push('AJBAE');
-      break;
-    }
 
         else if (x.includes('I really appreciate')){
           arr.push('');
