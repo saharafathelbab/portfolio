@@ -689,6 +689,10 @@ for (var y = 0; y < x.length; y++){
          arr.push('');
          break;
        }
+       else if(x.includes('how are you')){
+         arr.push('AEOUYTZZ');
+         break;
+       }
         else if (x.includes('hi')){
           arr.push('ABIOS');
           break;
@@ -699,10 +703,6 @@ for (var y = 0; y < x.length; y++){
         }
         else if (x.includes('Hi, how are you')){
           arr.push('');
-          break;
-        }
-        else if(x.includes('how are you')){
-          arr.push('AEOUYTZZ');
           break;
         }
         else if (x.includes("How's the weather")){
