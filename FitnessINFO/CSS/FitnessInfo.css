@@ -35,8 +35,9 @@
 
 .homerow ul li{
   background-color: white;
-
-  @media (min-width: 600px){
+}
+@media (min-width: 600px){
+  .homerow ul li{
     border-style: dotted;
   }
 }
