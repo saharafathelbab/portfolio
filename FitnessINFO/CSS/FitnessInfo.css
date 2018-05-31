@@ -1,3 +1,8 @@
+@media only screen and (max-width: 600px) {
+  .homerow ul{
+    list-style-type: none;
+  }
+}
 .headerp{
   background-image: url("waves.jpg");
   background-repeat: no-repeat;
