@@ -1,12 +1,7 @@
 @media only screen and (max-width: 600px) {
-  .homerow ul{
-    list-style-type: none;
-  }
-
-  .rows{
-    height: 100px;
-    width: 200px;
-  }
+body{
+  background-color: blue;
+}
 }
 .headerp{
   background-image: url("waves.jpg");
