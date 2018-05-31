@@ -2,6 +2,11 @@
   .homerow ul{
     list-style-type: none;
   }
+
+  .rows{
+    height: 200px;
+    width: 400px;
+  }
 }
 .headerp{
   background-image: url("waves.jpg");
