@@ -90,3 +90,29 @@
 .link:hover{
   color:black;
 }
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 900px){
+
+.homerow ul{
+  display:flow-root;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.rows{
+  height: 250px;
+  width: 450px;
+}
+.sketch{
+  height:400px;
+  width: 300px;
+}
+
+.nutritionsection{
+  height: 250px;
+  width: 450px;
+}
+
+}
