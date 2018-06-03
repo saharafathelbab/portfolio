@@ -96,7 +96,7 @@
 @media screen and (max-width: 900px){
 
 .homerow ul{
-  display:flow-root;
+  display: flow-root;
   justify-content: space-between;
   list-style-type: none;
 }
