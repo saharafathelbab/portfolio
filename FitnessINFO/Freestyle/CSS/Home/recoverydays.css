@@ -59,6 +59,27 @@
   height: 47%;
 }
 }
+@media screen and (max-width: 930px){
+  .photo3{
+  height: 300px;
+  width: 400px;
+}
+  .photothree{
+  background-color: #0F97FE;
+  position:absolute;
+  top: 1250px;
+  left: 350px;
+  width: 20%;
+}
+.summary3{
+  background-color: white;
+  position: absolute;
+  top: 1570px;
+  right: 60px;
+  width: 70%;
+  height: 47%;
+}
+}
 
 @media screen and (max-width: 700px){
   .photo3{
