@@ -42,7 +42,7 @@
 }
 .center2{
   height:900px;
-  background: #DCDCDC;
+  background: #B6C3FA;
 }
 
 .typing{
@@ -108,10 +108,10 @@
 .linking{
   font-family: 'Vidaloka';
   text-decoration: none;
-  color: white;
+  color: #FFA38C;
 
 }
 
 .linking:hover{
-  color: #BECAFF;  
+  color: #F2AEDD;
 }
