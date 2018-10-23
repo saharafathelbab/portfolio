@@ -1,0 +1,110 @@
+
+
+.main{
+  background-image: url('../images_home/laptop-and-coffee.png');
+  background-repeat: no-repeat;
+}
+
+/* NAV BAR */
+
+.navbar{
+  position: absolute;
+  height: 50px;
+  width: 1288px;
+  top: -5px;
+  left: -0.1px;
+  background-color: #C99999;
+}
+
+.firstlast{
+  position: absolute;
+  left: 10px;
+  top: -15px;
+}
+.name{
+  color: white;
+  font-family: 'Kaushan Script', cursive;
+}
+
+.name-to-home{
+  text-decoration: none;
+}
+/* LINKS */
+
+.link_name{
+  color: white;
+  font-family: 'Playfair Display SC', serif;
+  text-decoration: none;
+  float: right;
+  text-align: center;
+  width: 6em;
+  font-size: 13px;
+}
+.link_name:hover{
+  color: black;
+}
+
+.topics{
+  /* position: absolute;
+  top: 250px;
+  left: 325px; */
+}
+.topics ul li {
+    width: 150px;
+    height: 100px;
+    float:none;
+}
+
+.topics ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+.running{
+  height: 100px;
+  width: 100px;
+}
+
+.laptop{
+  height: 100px;
+  width: 100px;
+}
+
+.ux{
+  height: 100px;
+  width: 100px;
+}
+
+.blogger{
+  height: 100px;
+  width: 50px;
+}
+
+.button{
+  position: absolute;
+  top: 450px;
+  left: 560px;
+
+}
+.text{
+  color: black;
+  font-family: 'Playfair Display SC', serif;
+  font-size: 13px;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
+}
+
+.button-style{
+  background-color: #FFACAC;
+  border: none;
+  height: 40px;
+  width: 200px;
+  font-family: 'Playfair Display SC', serif;
+  color: white;
+}
+
+.button-style:hover{
+  background-color: white;
+  color: #FFACAC;
+  border-style: solid;
+}

@@ -1,0 +1,38 @@
+.paragraphs_photo ul li {
+    width: 700px;
+}
+
+.paragraphs_photo ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.paragraphs{
+  font-family: 'El Messiri', sans-serif;
+}
+
+.header_lead{
+  font-family: 'Caveat', cursive;
+  font-size: 27px;
+}
+
+.linking{
+  text-decoration: none;
+  color: #CC6262;
+  font-weight: bold;
+}
+
+.linking:hover{
+  color: #C99999;
+}
+
+.profile{
+  height: 400px;
+  width: 300px;
+}
+
+.icons{
+  height: 30px;
+  width: 30px;
+}

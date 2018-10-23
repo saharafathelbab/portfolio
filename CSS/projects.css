@@ -1,0 +1,65 @@
+.entire_project_list ul li{
+
+}
+
+.entire_project_list ul{
+  display: flow-root;
+  list-style-type: none;
+  justify-content: space-around;
+}
+.info{
+  background-color: #FFACAC;
+  height:250px;
+  width: 860px;
+}
+
+.info ul li {
+    width: 600px;
+}
+
+.info ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+.line{
+  color: white;
+}
+
+.view ul li {
+    width: 170px;
+}
+
+.view ul {
+    display: flex;
+    justify-content: flex-start;
+    list-style-type: none;
+}
+
+.title{
+  font-family: 'Playfair Display SC', serif;
+}
+.information_project{
+  font-family: 'El Messiri', sans-serif;
+  font-size: 14px;
+  color: #332C2C;
+}
+.image_size{
+  height: 250px;
+  width: 400px;
+}
+
+.button-style-view{
+  background-color: black;
+  border: none;
+  height: 40px;
+  width: 150px;
+  font-family: 'Playfair Display SC', serif;
+  font-size: 9px;
+  color: white;
+}
+
+.button-style-view:hover{
+  background-color: white;
+  color: black;
+}
