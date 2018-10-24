@@ -201,7 +201,8 @@
 
   .link-stuff{
   position: absolute;
-  left: 300px;
+  left: 200px;
+  top: 23px;
 }
 .button{
   left: 260px;
@@ -210,14 +211,24 @@
 .main{
   background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
   height: 812px;
-  width: 375px;
+  width: 370px;
 }
 .navbar{
   width: 709px;
 }
 .link_name{
-  width: 5em;
-  font-size: 11px;
+  width: 4.5em;
+  font-size: 8px;
+}
+.name{
+  font-size: 15px;
+}
+.firstlast{
+  top: 10px;
+}
+.text{
+  font-size: 9px;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 }
 @media screen and (max-width: 411px){
