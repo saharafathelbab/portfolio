@@ -228,7 +228,7 @@
 }
 .link_name{
   width: 4.5em;
-  font-size: 6px;
+  font-size: 8px;
 }
 .name{
   font-size: 15px;
@@ -243,7 +243,7 @@
 .link-stuff{
   position: absolute;
   left: 200px;
-  top: 25px;
+  top: 23px;
 }
 .text{
   font-size: 9px;
@@ -251,7 +251,6 @@
 
 }
 }
-
 /* Tablet Landscape */
 /* @media screen and (max-width: 1060px) {
     body { width:67%; } */
