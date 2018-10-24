@@ -2,7 +2,10 @@
 
 .main{
   background-image: url('../images_home/laptop-and-coffee.png');
-  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 /* NAV BAR */
@@ -108,3 +111,75 @@
   color: #FFACAC;
   border-style: solid;
 }
+
+/* MEDIA QUERIES  */
+@media screen and (max-width: 1279px){
+
+  .link-stuff{
+  position: absolute;
+  left: 900px;
+}
+
+}
+
+@media screen and (max-width: 1204px){
+
+  .link-stuff{
+  position: absolute;
+  left: 800px;
+}
+
+}
+
+@media screen and (max-width: 1105px){
+
+  .link-stuff{
+  position: absolute;
+  left: 700px;
+}
+
+}
+
+@media screen and (max-width: 1007px){
+
+  .link-stuff{
+  position: absolute;
+  left: 600px;
+}
+
+}
+
+@media screen and (max-width: 909px){
+
+  .link-stuff{
+  position: absolute;
+  left: 500px;
+}
+
+}
+
+@media screen and (max-width: 809px){
+
+  .link-stuff{
+  position: absolute;
+  left: 400px;
+}
+
+}
+
+@media screen and (max-width: 709px){
+
+  .link-stuff{
+  position: absolute;
+  left: 300px;
+}
+
+}
+
+/* Tablet Landscape */
+/* @media screen and (max-width: 1060px) {
+    body { width:67%; } */
+}
+/* Tabled Portrait */
+/* @media screen and (max-width: 768px) {
+    body { width:100%; } */
