@@ -2,6 +2,7 @@
 
 .main{
   background-image: url('../images_home/laptop-and-coffee.png');
+  background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
