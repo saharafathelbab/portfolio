@@ -94,6 +94,7 @@
   color: black;
   font-family: 'Playfair Display SC', serif;
   font-size: 13px;
+  text-align: center;
   text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 
 }
@@ -409,8 +410,10 @@
   top: 23px;
 }
 .text{
-  font-size: 9px;
-  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+ font-size: 9px;
+ font-family: 'El Messiri', sans-serif;
+ text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
 
 }
 }
