@@ -120,6 +120,9 @@
   position: absolute;
   left: 900px;
 }
+.navbar{
+  width: 1279px;
+}
 
 }
 
@@ -129,7 +132,9 @@
   position: absolute;
   left: 800px;
 }
-
+.navbar{
+  width: 1204px;
+}
 }
 
 @media screen and (max-width: 1105px){
@@ -138,7 +143,13 @@
   position: absolute;
   left: 700px;
 }
+.button{
+  left: 480px;
 
+}
+.navbar{
+  width: 1104px;
+}
 }
 
 @media screen and (max-width: 1007px){
@@ -147,7 +158,13 @@
   position: absolute;
   left: 600px;
 }
+.button{
+  left: 430px;
 
+}
+.navbar{
+  width: 1007px;
+}
 }
 
 @media screen and (max-width: 909px){
@@ -156,7 +173,13 @@
   position: absolute;
   left: 500px;
 }
+.button{
+  left: 380px;
 
+}
+.navbar{
+  width: 909px;
+}
 }
 
 @media screen and (max-width: 809px){
@@ -165,7 +188,13 @@
   position: absolute;
   left: 400px;
 }
+.button{
+  left: 330px;
 
+}
+.navbar{
+  width: 809px;
+}
 }
 
 @media screen and (max-width: 709px){
@@ -174,7 +203,20 @@
   position: absolute;
   left: 300px;
 }
+.button{
+  left: 260px;
 
+}
+.main{
+  background-image: url('../images_home/yeshi-kangrang-342857-unsplash.jpg');
+}
+.navbar{
+  width: 709px;
+}
+.link_name{
+  width: 5em;
+  font-size: 11px;
+}
 }
 
 /* Tablet Landscape */
