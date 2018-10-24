@@ -222,6 +222,7 @@
 }
 @media screen and (max-width: 411px){
   .button{
+  top: 490px;
   left: 120px;
 
 }
@@ -229,6 +230,20 @@
   width: 4.5em;
   font-size: 6px;
 }
+.name{
+  font-size: 15px;
+}
+.firstlast{
+  top: 10px;
+}
+.navbar{
+  width: 509px;
+}
+
+.link-stuff{
+  position: absolute;
+  left: 200px;
+  top: 20px;
 }
 
 /* Tablet Landscape */
