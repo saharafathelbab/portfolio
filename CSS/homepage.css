@@ -209,6 +209,8 @@
 }
 .main{
   background-image: url('../images_home/yeshi-kangrang-342857-unsplash.jpg');
+  height: 812px;
+  width: 375px;
 }
 .navbar{
   width: 709px;
@@ -216,6 +218,16 @@
 .link_name{
   width: 5em;
   font-size: 11px;
+}
+}
+@media screen and (max-width: 411px){
+  .button{
+  left: 120px;
+
+}
+.link_name{
+  width: 4.5em;
+  font-size: 6px;
 }
 }
 
