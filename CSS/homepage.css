@@ -208,7 +208,7 @@
 
 }
 .main{
-  background-image: url('../images_home/yeshi-kangrang-342857-unsplash.jpg');
+  background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
   height: 812px;
   width: 375px;
 }
@@ -221,6 +221,10 @@
 }
 }
 @media screen and (max-width: 411px){
+  .main{
+    height: 812px;
+    width: 300px;
+  }
   .button{
   top: 490px;
   left: 120px;
