@@ -63,3 +63,225 @@
   background-color: white;
   color: black;
 }
+
+/* MEDIA QUERIES  */
+
+@media screen and (max-width: 907px){
+  .info{
+  height:210px;
+  width: 650px;
+  }
+
+  .info ul li {
+    width: 300px;
+}
+.image_size{
+  height: 210px;
+  width: 300px;
+}
+
+.button-style-view{
+  height: 20px;
+  width: 100px;
+  font-size: 6px;
+}
+
+.information_project{
+  font-family: 'El Messiri', sans-serif;
+  font-size: 10px;
+  color: #332C2C;
+
+
+}
+
+}
+
+@media screen and (max-width: 698px){
+
+    .info{
+  height:150px;
+  width: 600px;
+  }
+
+  .info ul li {
+    width: 300px;
+}
+.image_size{
+  height: 150px;
+  width: 300px;
+}
+
+.button-style-view{
+  height: 20px;
+  width: 70px;
+  font-size: 5px;
+}
+
+.information_project{
+  font-family: 'El Messiri', sans-serif;
+  font-size: 0px;
+  color: #332C2C;
+
+
+}
+.view ul li {
+    width: 100px;
+}
+
+}
+
+@media screen and (max-width: 645px){
+
+
+    .info{
+  height:130px;
+  width: 440px;
+  }
+
+  .info ul li {
+    width: 200px;
+}
+.image_size{
+  height: 130px;
+  width: 250px;
+}
+
+.button-style-view{
+  height: 10px;
+  width: 65px;
+  font-size: 5px;
+}
+
+.information_project{
+  font-family: 'El Messiri', sans-serif;
+  font-size: 0px;
+  color: #332C2C;
+
+
+}
+.view ul li {
+    width: 100px;
+}
+
+.title{
+  font-size: 8px;
+}
+
+.line{
+  font-size: 5px;
+}
+
+
+}
+
+@media screen and (max-width: 487px){
+  body { width:60%; }
+
+
+
+    .info{
+  height:130px;
+  width: 400px;
+  }
+
+  .info ul li {
+    width: 200px;
+}
+.image_size{
+  height: 130px;
+  width: 240px;
+}
+
+.button-style-view{
+  height: 10px;
+  width: 65px;
+  font-size: 5px;
+}
+
+.information_project{
+  font-family: 'El Messiri', sans-serif;
+  font-size: 0px;
+  color: #332C2C;
+
+
+}
+.view ul li {
+    width: 100px;
+    height: 20px;
+}
+.view ul {
+    display: flow-root;
+}
+.title{
+  font-size: 0px;
+  position: absolute;
+  left: 350px;
+}
+
+.line{
+  font-size: 0px;
+}
+
+.solo{
+  position: absolute;
+  left: 360px;
+}
+
+
+}
+
+@media screen and (max-width: 448px){
+  body { width:60%; }
+
+
+
+    .info{
+  height:130px;
+  width: 360px;
+  }
+
+  .info ul li {
+    width: 200px;
+}
+.image_size{
+  height: 130px;
+  width: 240px;
+}
+
+.button-style-view{
+  height: 10px;
+  width: 65px;
+  font-size: 5px;
+}
+
+.information_project{
+  font-family: 'El Messiri', sans-serif;
+  font-size: 0px;
+  color: #332C2C;
+
+
+}
+.view ul li {
+    width: 70px;
+    height: 20px;
+}
+.view ul {
+    display: flow-root;
+}
+.title{
+  font-size: 0px;
+  position: absolute;
+  left: 350px;
+}
+
+.line{
+  font-size: 0px;
+}
+
+.solo{
+  position: absolute;
+  left: 360px;
+}
+
+
+}
