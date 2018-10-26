@@ -36,6 +36,10 @@
     list-style-type: none;
 }
 
+.titlemobile{
+  font-family: 'Playfair Display SC', serif;
+  font-size: 0px;
+}
 .title{
   font-family: 'Playfair Display SC', serif;
 }
@@ -281,5 +285,9 @@
   left: 380px;
 }
 
+.titlemobile{
+  font-family: 'Playfair Display SC', serif;
+  font-size: 7px;
+}
 
 }
