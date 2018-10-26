@@ -239,7 +239,7 @@
   }
 
   .info ul li {
-    width: 200px;
+    width: 300px;
 }
 .image_size{
   height: 130px;
@@ -254,13 +254,13 @@
 
 .information_project{
   font-family: 'El Messiri', sans-serif;
-  font-size: 0px;
+  font-size: 7px;
   color: #332C2C;
 
 
 }
 .view ul li {
-    width: 70px;
+    width: 100px;
     height: 20px;
 }
 .view ul {
