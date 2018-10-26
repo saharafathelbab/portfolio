@@ -175,7 +175,6 @@
 }
 
 @media screen and (max-width: 487px){
-  body { width:60%; }
 
 
 
@@ -231,13 +230,12 @@
 }
 
 @media screen and (max-width: 448px){
-  body { width:60%; }
 
 
 
     .info{
   height:130px;
-  width: 360px;
+  width: 400px;
   }
 
   .info ul li {
