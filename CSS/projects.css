@@ -291,3 +291,67 @@
 }
 
 }
+
+@media screen and (max-width: 411px){
+
+
+
+    .info{
+  height:130px;
+  width: 350px;
+  }
+
+  .info ul li {
+    width: 300px;
+}
+.image_size{
+  height: 130px;
+  width: 200px;
+}
+
+.button-style-view{
+  height: 10px;
+  width: 60px;
+  font-size: 4px;
+}
+
+.information_project{
+  font-family: 'El Messiri', sans-serif;
+  font-size: 0px;
+  color: #332C2C;
+
+
+}
+.view ul li {
+    width: 100px;
+    height: 15px;
+}
+.view ul {
+    display: flow-root;
+}
+.title{
+  font-size: 0px;
+  position: absolute;
+  left: 350px;
+}
+
+.line{
+  font-size: 0px;
+}
+
+.solo{
+  position: absolute;
+  left: 340px;
+}
+
+.titlemobile{
+  font-family: 'Playfair Display SC', serif;
+  font-size: 7px;
+
+
+}
+.breaking{
+  display: none;
+}
+
+}
