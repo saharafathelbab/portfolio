@@ -75,6 +75,9 @@
 .extra_three{
   display:none;
 }
+.extra_four{
+  display:none;
+}
 /* MEDIA QUERIES */
 
 @media screen and (max-width: 794px){
@@ -153,4 +156,10 @@
   height: 90px;
 }
 
+}
+
+@media screen and (max-width: 411px){
+  .extra_four{
+    display:block;
+  }
 }
