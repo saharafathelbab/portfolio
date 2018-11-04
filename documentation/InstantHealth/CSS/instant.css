@@ -162,4 +162,9 @@
   .extra_four{
     display:block;
   }
+  .link-stuff{
+    position: absolute;
+    left: 150px;
+    top: 23px;
+  }
 }
