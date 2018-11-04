@@ -104,6 +104,317 @@
 
 
 /* MEDIA QUERIES */
+/* MEDIA QUERIES  */
+@media screen and (max-width: 1279px){
+
+  .link-stuff{
+  position: absolute;
+  left: 900px;
+}
+.navbar{
+  width: 1279px;
+}
+
+}
+
+@media screen and (max-width: 1204px){
+
+  .link-stuff{
+  position: absolute;
+  left: 800px;
+}
+.navbar{
+  width: 1204px;
+}
+}
+
+@media screen and (max-width: 1105px){
+
+  .link-stuff{
+  position: absolute;
+  left: 700px;
+}
+.button{
+  left: 480px;
+
+}
+.navbar{
+  width: 1104px;
+}
+}
+
+@media screen and (max-width: 1007px){
+
+  .main{
+  height: 712px;
+  width: 1000px;
+}
+
+  .link-stuff{
+  position: absolute;
+  left: 600px;
+}
+.button{
+  left: 430px;
+
+}
+.navbar{
+  width: 1007px;
+}
+}
+
+@media screen and (max-width: 909px){
+
+  .main{
+  height: 812px;
+  width: 900px;
+}
+
+  .link-stuff{
+  position: absolute;
+  left: 500px;
+}
+.button{
+  left: 380px;
+
+}
+.navbar{
+  width: 909px;
+}
+}
+
+@media screen and (max-width: 809px){
+
+  .main{
+  height: 812px;
+  width: 900px;
+}
+
+  .link-stuff{
+  position: absolute;
+  left: 400px;
+}
+.button{
+  left: 330px;
+
+}
+.navbar{
+  width: 809px;
+}
+}
+
+@media screen and (max-width: 784px){
+
+    .main{
+  height: 812px;
+  width: 800px;
+}
+}
+
+@media screen and (max-width: 709px){
+
+  .link-stuff{
+  position: absolute;
+  left: 500px;
+  top: 23px;
+}
+.button{
+  left: 260px;
+
+}
+.main{
+  background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
+  height: 812px;
+  width: 800px;
+}
+.navbar{
+  width: 709px;
+}
+.link_name{
+  width: 4.5em;
+  font-size: 10px;
+}
+.name{
+  font-size: 20px;
+}
+.firstlast{
+  top: 3px;
+}
+.text{
+  font-size: 9px;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+}
+
+@media screen and (max-width: 666px){
+  .main{
+        background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
+    height:812px;
+    width: 700px;
+  }
+  .button{
+  left: 240px;
+
+}
+  .link-stuff{
+  position: absolute;
+  left: 410px;
+}
+
+}
+
+@media screen and (max-width: 592px){
+
+    .main{
+        background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
+    height:812px;
+    width: 640px;
+  }
+
+   .link-stuff{
+  position: absolute;
+  left: 380px;
+}
+
+}
+
+@media screen and (max-width: 562px){
+
+   .link-stuff{
+  position: absolute;
+  left: 340px;
+}
+
+}
+
+@media screen and (max-width: 537px){
+
+      .main{
+    background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
+    height:812px;
+    width: 600px;
+  }
+
+   .link-stuff{
+  position: absolute;
+  left: 320px;
+}
+
+}
+
+@media screen and (max-width: 504px){
+
+    .main{
+    background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
+    height:812px;
+    width: 540px;
+  }
+  .button{
+    left: 190px;
+  }
+
+   .link-stuff{
+  position: absolute;
+  left: 300px;
+}
+
+}
+
+
+@media screen and (max-width: 483px){
+
+    .main{
+    background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
+    height:812px;
+    width: 530px;
+  }
+
+   .link-stuff{
+  position: absolute;
+  left: 280px;
+}
+
+}
+
+@media screen and (max-width: 464px){
+
+      .main{
+    background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
+    height:812px;
+    width: 500px;
+  }
+
+   .link-stuff{
+  position: absolute;
+  left: 260px;
+}
+
+}
+
+
+@media screen and (max-width: 442px){
+
+    .main{
+        background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
+    height:812px;
+    width: 490px;
+  }
+
+   .link-stuff{
+  position: absolute;
+  left: 230px;
+}
+
+}
+
+
+
+@media screen and (max-width: 411px){
+  .main{
+    background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
+    height: 812px;
+    width: 334px;
+  }
+  .button{
+  top: 490px;
+  left: 100px;
+
+}
+.link_name{
+  width: 4.5em;
+  font-size: 8px;
+}
+.name{
+  font-size: 15px;
+}
+.firstlast{
+  top: 10px;
+}
+.navbar{
+  width: 510px;
+}
+
+.link-stuff{
+  position: absolute;
+  left: 200px;
+  top: 23px;
+}
+.text{
+ font-size: 9px;
+ text-align: center;
+ text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
+
+}
+}
+
+
+
+
+
+
+
+/* extra */
 
 @media screen and (max-width: 794px){
   .extra{
@@ -161,10 +472,5 @@
 @media screen and (max-width: 411px){
   .extra_four{
     display:block;
-  }
-  .link-stuff{
-    position: absolute;
-    left: 150px;
-    top: 23px;
   }
 }
