@@ -182,3 +182,10 @@
   width: 200px;
 }
 }
+
+@media screen and (max-width: 411px){
+  .top_order ul li {
+      width: 700px;
+      height: 200px;
+  }
+}
