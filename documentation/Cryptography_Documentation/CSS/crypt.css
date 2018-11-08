@@ -144,6 +144,17 @@
   }
 }
 
+@media screen and (max-width: 511px){
+  .photo_tele{
+  height: 200px;
+  width: 300px;
+}
+.photo_notepad{
+  height: 250px;
+  width: 200px;
+}
+
+
 @media screen and (max-width: 488px){
   .top_order ul li {
       width: 700px;
