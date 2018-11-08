@@ -197,4 +197,8 @@
   .show{
     display: none;
   }
+  .top_order ul li {
+      width: 700px;
+      height: 150px;
+  }
 }
