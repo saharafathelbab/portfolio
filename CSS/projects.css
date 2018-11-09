@@ -79,19 +79,6 @@
 
 /* MEDIA QUERIES */
 
-@media screen and (max-width: 698px){
-  .entire_project_list{
-    display: none;
-  }
-  .mobile_project{
-    display: block;
-  }
-  .information_project{
-    font-family: 'El Messiri', sans-serif;
-    font-size: 20px;
-    color: #332C2C;
-}
-
 
 /* MEDIA QUERIES  */
 
@@ -124,6 +111,20 @@
 }
 
 }
+
+@media screen and (max-width: 698px){
+  .entire_project_list{
+    display: none;
+  }
+  .mobile_project{
+    display: block;
+  }
+  .information_project{
+    font-family: 'El Messiri', sans-serif;
+    font-size: 20px;
+    color: #332C2C;
+}
+
 
 /* @media screen and (max-width: 698px){
 
