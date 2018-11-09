@@ -68,6 +68,27 @@
   color: black;
 }
 
+.mobile_project{
+  display: none;
+}
+
+.mobile_image{
+  height: 200px;
+  width: 300px;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 698px){
+  .entire_project_list{
+    display: none;
+  }
+  .mobile_project{
+    display: block;
+  }
+}
+
+
 /* MEDIA QUERIES  */
 
 @media screen and (max-width: 907px){
@@ -100,7 +121,7 @@
 
 }
 
-@media screen and (max-width: 698px){
+/* @media screen and (max-width: 698px){
 
     .info{
   height:150px;
@@ -354,4 +375,4 @@
   display: none;
 }
 
-}
+} */
