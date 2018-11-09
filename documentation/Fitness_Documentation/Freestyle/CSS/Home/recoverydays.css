@@ -1,0 +1,148 @@
+.three{
+  height: 400px;
+  width: 300px;
+}
+.photothree{
+  background-color: #0F97FE;
+  position:absolute;
+  top: 1000px;
+  left: 30px;
+  width: 20%;
+}
+.photo3{
+
+  height: 400px;
+  width: 600px;
+
+}
+.summary3{
+  background-color: white;
+  position: absolute;
+  top: 1050px;
+  right: 60px;
+  width: 40%;
+  height: 50%;
+}
+
+@media screen and (max-width: 1039px){
+   .photo3{
+  height: 300px;
+  width: 400px;
+}
+.photothree{
+  background-color: #0F97FE;
+  position:absolute;
+  top: 1070px;
+  left: 30px;
+  width: 20%;
+}
+}
+
+@media screen and (max-width: 1000px){
+  .photo3{
+  height: 300px;
+  width: 400px;
+}
+  .photothree{
+  background-color: #0F97FE;
+  position:absolute;
+  top: 1310px;
+  left: 260px;
+  width: 20%;
+}
+.summary3{
+  background-color: white;
+  position: absolute;
+  top: 1630px;
+  right: 60px;
+  width: 70%;
+  height: 47%;
+}
+}
+@media screen and (max-width: 930px){
+  .photo3{
+  height: 300px;
+  width: 400px;
+}
+  .photothree{
+  background-color: #0F97FE;
+  position:absolute;
+  top: 1250px;
+  left: 350px;
+  width: 20%;
+}
+.summary3{
+  background-color: white;
+  position: absolute;
+  top: 1570px;
+  right: 60px;
+  width: 70%;
+  height: 47%;
+}
+}
+
+@media screen and (max-width: 700px){
+  .photo3{
+  height: 300px;
+  width: 400px;
+}
+  .photothree{
+  background-color: #0F97FE;
+  position:absolute;
+  top: 1310px;
+  left: 203px;
+  width: 20%;
+}
+.summary3{
+  background-color: white;
+  position: absolute;
+  top: 1630px;
+  right: 60px;
+  width: 70%;
+  height: 47%;
+}
+}
+
+@media screen and (max-width: 600px){
+  .photo3{
+  height: 200px;
+  width: 300px;
+}
+  .photothree{
+  background-color: #0F97FE;
+  position:absolute;
+  top: 1210px;
+  left: 180px;
+  width: 20%;
+}
+.summary3{
+  background-color: white;
+  position: absolute;
+  top: 1430px;
+  right: 60px;
+  width: 70%;
+  height: 47%;
+}
+}
+
+@media screen and (max-width: 500px){
+  .photo3{
+  height: 200px;
+  width: 300px;
+}
+  .photothree{
+  background-color: #0F97FE;
+  position:absolute;
+  top: 1130px;
+  left: 102px;
+  width: 20%;
+}
+.summary3{
+  background-color: white;
+  position: absolute;
+  top: 1340px;
+  right: 40px;
+  width: 80%;
+  height: 47%;
+}
+}

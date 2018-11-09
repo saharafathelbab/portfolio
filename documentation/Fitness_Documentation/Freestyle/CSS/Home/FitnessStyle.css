@@ -1,0 +1,192 @@
+body{
+  background-color: #000000;
+}
+
+.onee{
+  height: 400px;
+  width: 300px;
+}
+.photoone{
+  background-color: #0F97FE;
+  position:absolute;
+  top: 30px;
+  left: 30px;
+  width: 20%;
+}
+.photo1{
+
+}
+.summary{
+  background-color: white;
+  position: absolute;
+  top: 60px;
+  right: 60px;
+  width: 40%;
+  height: 45%;
+}
+
+.one{
+  background-color: black;
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 15px;
+  color: white;
+  width: 10em;
+  height: 2em;
+  border-style: hidden;
+
+}
+.one:hover{
+  background-color: grey;
+  color: black;
+}
+.number{
+  font-family: 'Metal Mania', cursive;
+}
+.titleblock{
+  font-family: 'Antic Didone', serif;
+}
+.sum{
+  font-family: 'EB Garamond', serif;
+
+}
+
+@media screen and (max-width: 1039px){
+  .photoone{
+  background-color: #0F97FE;
+  position:absolute;
+  top: 90px;
+  left: 30px;
+  width: 20%;
+}
+.photo1{
+  height: 250px;
+  width: 350px;
+}
+
+}
+
+@media screen and (max-width: 1000px){
+  .photo1{
+    height: 250px;
+    width: 350px;
+  }
+  .photoone{
+  position:absolute;
+  top: 30px;
+  left: 310px;
+  width: 20%;
+}
+  .summary{
+  background-color: white;
+  position: absolute;
+  top: 300px;
+  right: 67px;
+  width: 70%;
+  height: 45%;
+}
+}
+
+@media screen and (max-width: 930px){
+  .photo1{
+    height: 250px;
+    width: 350px;
+  }
+  .photoone{
+  position:absolute;
+  top: 30px;
+  left: 370px;
+  width: 20%;
+}
+  .summary{
+  background-color: white;
+  position: absolute;
+  top: 300px;
+  right: 67px;
+  width: 70%;
+  height: 45%;
+}
+}
+
+@media screen and (max-width: 800px){
+  .photo1{
+    height: 250px;
+    width: 350px;
+  }
+  .photoone{
+  position:absolute;
+  top: 30px;
+  left: 270px;
+  width: 20%;
+}
+  .summary{
+  background-color: white;
+  position: absolute;
+  top: 300px;
+  right: 67px;
+  width: 70%;
+  height: 45%;
+}
+}
+
+@media screen and (max-width: 700px){
+    .photo1{
+    height: 250px;
+    width: 350px;
+  }
+  .photoone{
+  position:absolute;
+  top: 30px;
+  left: 210px;
+  width: 20%;
+}
+  .summary{
+  background-color: white;
+  position: absolute;
+  top: 300px;
+  right: 67px;
+  width: 70%;
+  height: 45%;
+}
+}
+
+@media screen and (max-width: 600px){
+    .photo1{
+    height: 250px;
+    width: 350px;
+  }
+  .photoone{
+  position:absolute;
+  top: 30px;
+  left: 150px;
+  width: 20%;
+}
+  .summary{
+  background-color: white;
+  position: absolute;
+  top: 300px;
+  right: 67px;
+  width: 70%;
+  height: 45%;
+}
+}
+
+@media screen and (max-width: 500px){
+  .photo1{
+    height: 200px;
+    width: 260px;
+  }
+  .photoone{
+  position:absolute;
+  top: 30px;
+  left: 120px;
+  width: 20%;
+}
+  .summary{
+    background-color: white;
+    position: absolute;
+    top: 250px;
+    right: 67px;
+    width: 70%;
+    height: 45%;
+}
+}
