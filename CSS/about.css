@@ -40,37 +40,19 @@
 MEDIA QUERIES  */
 
 @media screen and (max-width: 730px){
-  .paragraphs_photo ul {
-    display: flow-root;
-}
   .profile{
     height: 250px;
     width: 200px;
   }
+
 }
 
 @media screen and (max-width: 493px){
-  .paragraphs_photo ul {
-      display: flow-root;
+  .mobile{
+    display: block;
   }
-  .paragraphs_photo ul li {
-      width: 400px;
-  }
-
-}
-
-@media screen and (max-width: 440px){
-  .paragraphs_photo ul {
-      display: flow-root;
-  }
-  .paragraphs_photo ul li {
-      width: 300px;
+  .paragraphs_photo{
+    display:none;
   }
 
-}
-
-@media screen and (max-width: 411px){
-  .paragraphs_photo ul {
-      display: flow-root;
-  }
 }
