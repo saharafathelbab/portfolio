@@ -36,3 +36,32 @@
   height: 30px;
   width: 30px;
 }
+/*
+MEDIA QUERIES  */
+
+@media screen and (max-width: 730px){
+  .profile{
+    height: 250px;
+    width: 200px;
+  }
+}
+
+@media screen and (max-width: 493px){
+  .paragraphs_photo ul {
+      display: flow-root;
+  }
+  .paragraphs_photo ul li {
+      width: 400px;
+  }
+
+}
+
+@media screen and (max-width: 440px){
+  .paragraphs_photo ul {
+      display: flow-root;
+  }
+  .paragraphs_photo ul li {
+      width: 300px;
+  }
+
+}
