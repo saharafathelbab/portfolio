@@ -124,7 +124,12 @@
     font-size: 15px;
     color: #332C2C;
 }
-
+.mobile_box{
+  height: 270px;
+  width: 300px;
+  background-color: #F7E5E5;
+  }
+}
 
 /* @media screen and (max-width: 698px){
 
