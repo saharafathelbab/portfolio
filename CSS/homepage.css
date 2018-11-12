@@ -377,6 +377,10 @@
   .body_mobile{
     background-color: #C99999;
   }
+  .read_mobile{
+    font-family: 'Playfair Display SC', serif;
+    color: white;
+  }
 }
 
 @media screen and (max-width: 411px){
