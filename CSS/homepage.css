@@ -352,30 +352,30 @@
   .link-stuff{
     display: none;
   }
-  .mobile_spacing{
-    display: block;
-  }
   .mobile_first{
     display: block;
     position: absolute;
     left: 350px;
     top: 15px;
+    width: 110px;
     color: white;
+    font-size: 15px;
     font-family: 'Playfair Display SC', serif;
   }
-  .button-style-mobile{
-    background-color: #FFACAC;
-    border: none;
-    height: 40px;
-    width: 100px;
-    font-family: 'Playfair Display SC', serif;
+  .mobile_link_name{
+    text-decoration: none;
     color: white;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 10px;
   }
-
-  .button-style-mobile:hover{
-    background-color: white;
-    color: #FFACAC;
-    border-style: solid;
+  .mobile_link_name:hover{
+    color: black;
+  }
+  .mobile_spacing{
+    display: block;
+  }
+  .body_mobile{
+    background-color: #C99999;
   }
 }
 
@@ -383,25 +383,13 @@
   .mobile_first{
     display: block;
     position: absolute;
-    left: 270px;
-    top: 23px;
+    left: 300px;
+    top: 20px;
+    width: 110px;
     color: white;
     font-size: 10px;
     font-family: 'Playfair Display SC', serif;
   }
-  .body_mobile{
-    background-color: #C99999;
-  }
-  .button-style-mobile{
-    background-color: #C99999;
-    border: none;
-    height: 40px;
-    width: 100px;
-    font-family: 'Playfair Display SC', serif;
-    font-size: 8px;
-    color: white;
-  }
-
 }
 
 @media screen and (max-width: 464px){
