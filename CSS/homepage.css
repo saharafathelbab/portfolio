@@ -389,6 +389,9 @@
     font-size: 10px;
     font-family: 'Playfair Display SC', serif;
   }
+  .body_mobile{
+    background-color: #FFACAC;
+  }
   .button-style-mobile{
     background-color: #FFACAC;
     border: none;
