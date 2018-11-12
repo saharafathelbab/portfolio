@@ -352,6 +352,9 @@
   .link-stuff{
     display: none;
   }
+  .mobile_spacing{
+    display: block;
+  }
   .mobile_first{
     display: block;
     position: absolute;
@@ -376,11 +379,11 @@
   }
 }
 
-@media screen and (max-width: 406px){
+@media screen and (max-width: 411px){
   .mobile_first{
     display: block;
     position: absolute;
-    left: 300px;
+    left: 260px;
     top: 20px;
     color: white;
     font-size: 10px;
