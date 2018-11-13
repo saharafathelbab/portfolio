@@ -221,5 +221,9 @@
       width: 700px;
       height: 200px;
   }
+  .photo_desktop{
+    height: 180px;
+    width: 350px;
+  }
 
 }
