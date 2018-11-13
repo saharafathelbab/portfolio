@@ -1,0 +1,138 @@
+nav{
+  display: inline-table;
+  font-weight: bold;
+  border: 2px solid black;
+  text-align: center;
+  width: 10em;
+  background-color: black;
+  float: right;
+}
+nav ul{
+  display: none;
+  list-style: none;
+  margin:0;
+  padding:0;
+}
+nav:hover ul{
+  display: block;
+}
+nav ul li{
+  border-top: 2px solid royalblue;
+  background-color: red;
+  width: 10em;
+  color: white;
+}
+nav ul li:hover{
+  background-color: yellow;
+}
+nav:hover{
+  background-color: grey;
+  color: black;
+}
+.navi{
+  background-color: black;
+}
+.centerhead{
+  background: black;
+}
+.head1{
+  font-family:'Oswald';
+  color: white;
+}
+.head2{
+  font-family:'Kaushan Script';
+  color: white;
+}
+.center2{
+  background: white;
+}
+
+.ux{
+  height: 300px;
+  width: 200px;
+  float: right;
+  margin: 20px;
+}
+.summary{
+  font-family:'Source Serif Pro';
+  margin: 20px;
+}
+
+.center3{
+  background: white;
+}
+.links{
+  text-decoration: none;
+  color: black;
+  font-family:'Oswald';
+  margin: 20px;
+}
+.links:hover{
+  color: blue;
+}
+.firstrow {
+    width: 300px;
+    height: 150px;
+}
+
+.row ul li {
+    width: 150px;
+    height: 100px;
+    background-color: white;
+    float: left;
+}
+
+.row ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.row2 ul li {
+  width: 500px;
+  height: 250px;
+  background-color: white;
+  float: left;
+}
+.row2 ul{
+  display: block;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.bac{
+  text-decoration: none;
+  color: black;
+  font-family:'Oswald'
+}
+.bac:hover{
+  color: blue;
+}
+.process{
+  background-color: black;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+p{
+  margin: 20px;
+  font-family:'Source Serif Pro';
+}
+.targetd{
+font-family:'Oswald';
+}
+.main{
+  font-family:'Kaushan Script';
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: blue;
+}
+
+.grey:hover{
+  color: grey;
+}

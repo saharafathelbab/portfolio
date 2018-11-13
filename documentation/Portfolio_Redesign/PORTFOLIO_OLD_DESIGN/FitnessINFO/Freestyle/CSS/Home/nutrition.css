@@ -1,0 +1,190 @@
+.twoo{
+  height: 400px;
+  width: 300px;
+}
+.summary2{
+  position:absolute;
+  top: 550px;
+  left: 30px;
+  width: 30%;
+  height:50%;
+  color: black;
+  background-color: white;
+}
+.photo2{
+  height: 400px;
+  width: 650px;
+}
+.phototwo{
+  position: absolute;
+  top: 500px;
+  right: 180px;
+  width: 40%;
+}
+@media screen and (max-width: 1039px){
+  .photo2{
+  height: 300px;
+  width: 450px;
+}
+.phototwo{
+  position: absolute;
+  top: 580px;
+  right: 120px;
+  width: 40%;
+}
+
+}
+@media screen and (max-width: 1000px){
+  .photo2{
+  height: 300px;
+  width: 425px;
+}
+  .phototwo{
+  position: absolute;
+  top: 650px;
+  right: 240px;
+  width: 40%;
+  }
+
+  .summary2{
+  position:absolute;
+  top: 970px;
+  left: 170px;
+  width: 70%;
+  height:44%;
+  color: black;
+  background-color: white;
+  }
+
+
+
+}
+
+@media screen and (max-width: 930px){
+  .photo2{
+  height: 300px;
+  width: 425px;
+}
+  .phototwo{
+  position: absolute;
+  top: 620px;
+  right: 235px;
+  width: 40%;
+  }
+
+  .summary2{
+  position:absolute;
+  top: 950px;
+  left: 210px;
+  width: 70%;
+  height:44%;
+  color: black;
+  background-color: white;
+  }
+
+
+
+}
+
+@media screen and (max-width: 800px){
+  .photo2{
+  height: 300px;
+  width: 425px;
+}
+  .phototwo{
+  position: absolute;
+  top: 650px;
+  right: 210px;
+  width: 40%;
+  }
+
+  .summary2{
+  position:absolute;
+  top: 970px;
+  left: 200px;
+  width: 70%;
+  height:44%;
+  color: black;
+  background-color: white;
+  }
+
+
+
+}
+
+@media screen and (max-width: 700px){
+   .photo2{
+  height: 300px;
+  width: 425px;
+}
+  .phototwo{
+  position: absolute;
+  top: 650px;
+  right: 235px;
+  width: 40%;
+  }
+
+  .summary2{
+  position:absolute;
+  top: 970px;
+  left: 150px;
+  width: 70%;
+  height:44%;
+  color: black;
+  background-color: white;
+  }
+
+
+}
+
+@media screen and (max-width: 600px){
+   .photo2{
+  height: 200px;
+  width: 325px;
+}
+  .phototwo{
+  position: absolute;
+  top: 650px;
+  right: 196.5px;
+  width: 40%;
+  }
+
+  .summary2{
+  position:absolute;
+  top: 870px;
+  left: 120px;
+  width: 70%;
+  height:44%;
+  color: black;
+  background-color: white;
+  }
+
+
+}
+
+
+@media screen and (max-width: 500px){
+  .photo2{
+  height: 200px;
+  width: 325px;
+}
+  .phototwo{
+  position: absolute;
+  top: 590px;
+  right: 205px;
+  width: 40%;
+  }
+
+  .summary2{
+  position:absolute;
+  top: 800px;
+  left: 60px;
+  width: 80%;
+  height:44%;
+  color: black;
+  background-color: white;
+  }
+
+
+
+}

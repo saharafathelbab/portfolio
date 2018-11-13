@@ -1,0 +1,47 @@
+.right{
+  background-color: white;
+  position: absolute;
+  right: 0px;
+  width: 70%;
+}
+
+.toptitle{
+  color: black;
+  font-family: 'Oswald', sans-serif;
+}
+
+.cryptoimage{
+  height: 400px;
+  width: 350px;
+}
+.link{
+  color: #800000;
+  font-family: 'Oswald', sans-serif;
+  text-decoration: none;
+
+}
+
+.link:hover{
+  color: grey;
+  font-family: 'Oswald', sans-serif;
+  text-decoration: none;
+}
+
+.telegraphimage{
+  height: 500px;
+  width: 350px;
+}
+
+.codebook{
+  height: 300px;
+  width: 400px;
+}
+.codingtwoletterwords{
+  height: 200px;
+  width: 400px;
+}
+
+.lucase{
+  height: 400px;
+  width: 400px;
+}

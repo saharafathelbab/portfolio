@@ -1,0 +1,117 @@
+.nav{
+  color: black;
+  font-family: 'Oswald';
+  text-decoration: none;
+  float: right;
+  width: 6em;
+}
+.nav:hover{
+  color: grey;
+  font-family: 'Oswald';
+
+}
+.ab{
+  text-decoration: none;
+  color: white;
+  background: black;
+  font-size: 20px;
+  border-radius: 50px;
+  border-top: thick double #000000;
+  border-bottom: thick double #000000;
+  border-left: thick double #000000;
+  border-right: thick double #000000;
+  font-family: "Ubuntu";
+
+
+
+}
+.ab:hover{
+  color: black;
+  background-color: grey;
+  border-radius: 50px;
+
+}
+.center{
+  height:600px;
+
+  background-image: url("mount.jpg");
+  background-repeat: no-repeat;
+
+
+
+}
+.center2{
+  height:900px;
+  background: #FDF3FF;
+}
+
+.typing{
+  font-family:'Oswald';
+}
+.name{
+  font-family:'Lobster';
+  color: black;
+}
+.bio{
+  font-family: 'Vidaloka';
+  font-size: 17px;
+  margin: 50px;
+}
+.center3{
+  height:600px;
+  background-color: #ffffff;
+
+}
+.skills{
+  font-family:'Lobster';
+}
+.profile-image {
+  width: 300px;
+  height: 400px;
+}
+.skillrow ul li {
+    width: 150px;
+    height: 100px;
+    background-color: #ffffff;
+    float: left;
+}
+
+.skillrow ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.skillset{
+  font-family: 'Vidaloka';
+}
+.port{
+  font-family: 'Lobster';
+}
+.firstone {
+  height: 300px;
+  width: 200px;
+
+}
+
+.contact{
+  height:400px;
+  background-color: #FDF3FF;
+}
+.con{
+  font-family: 'Lobster';
+}
+
+.conp{
+  font-family: 'Vidaloka';
+}
+
+.linking{
+  font-family: 'Vidaloka';
+  text-decoration: none;
+  color: #FFA38C;
+
+}
+
+.linking:hover{
+  color: #B8D1FA;
+}

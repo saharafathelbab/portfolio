@@ -1,0 +1,38 @@
+.nav{
+  background-color: black;
+  float: right;
+}
+.navi{
+  color: white;
+  font-family:'Oswald';
+  text-decoration: none;
+}
+.navi:hover{
+  color: grey;
+}
+.top{
+  background-color: black;
+  height:300px;
+}
+.head1{
+  font-family:'Oswald';
+  color: white;
+}
+.head2{
+  font-family:'Kaushan Script';
+  color: white;
+}
+.pdf{
+
+  font-family:'Oswald';
+  color: black;
+}
+
+.actpdf{
+  font-family:'Oswald';
+  color: black;
+}
+
+.actpdf:hover{
+  color: grey;
+}

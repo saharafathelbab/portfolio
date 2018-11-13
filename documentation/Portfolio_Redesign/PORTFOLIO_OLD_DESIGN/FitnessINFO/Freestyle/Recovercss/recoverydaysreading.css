@@ -1,0 +1,75 @@
+.header{
+  background-image: url("images/vibes.jpg");
+  background-repeat: no-repeat;
+  height: 550px;
+}
+
+.reading{
+  background-image: url("images/sitting.png");
+  background-repeat: no-repeat;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: absolute;
+  left: 43%;
+  top: 10%;
+
+
+}
+
+.nav{
+  text-decoration: none;
+  color: black;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.nav:hover{
+  color: grey;
+}
+
+.rows{
+  height: 300px;
+  width: 200px;
+}
+
+
+.articlerow ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.articlerow ul li{
+  background-color: white;
+}
+
+.titlepart{
+  font-family: 'Oswald', sans-serif;
+  color: white;
+}
+
+.mid{
+  height: 500px;
+  width: 900px;
+}
+
+.last{
+  height: 300px;
+  width: 900px;
+}
+
+
+.two:hover{
+  background-color: grey;
+  color: black;
+}
+
+.two{
+  background-color: black;
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 15px;
+  color: white;
+  width: 20em;
+  height: 2em;
+  border-style: hidden;
+}

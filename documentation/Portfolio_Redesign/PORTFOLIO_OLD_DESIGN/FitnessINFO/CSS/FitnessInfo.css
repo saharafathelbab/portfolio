@@ -1,0 +1,118 @@
+.headerp{
+  background-image: url("waves.jpg");
+  background-repeat: no-repeat;
+  height: 500px;
+}
+
+.weight{
+  background-image: url("sneakers.png");
+  background-repeat: no-repeat;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: absolute;
+  left: 43%;
+  top: 10%;
+
+}
+
+.headerpart{
+  color: white;
+  font-family: 'Oswald', sans-serif;
+}
+
+.top{
+  font-family: 'Oswald', sans-serif;
+}
+.sum{
+  font-family: 'Exo', sans-serif;
+}
+.homerow ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.homerow ul li{
+  background-color: white;
+}
+
+.rows{
+  height: 200px;
+  width: 400px;
+}
+
+.sketch{
+  height: 400px;
+  width: 300px;
+}
+
+.homerowtwo ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.homerowtwo ul li{
+  background-color: white;
+  border-style: solid;
+  height: 500px;
+  width: 400px;
+}
+
+.topweight{
+  height: 100px;
+  width: 100px;
+}
+
+.nutritionsection{
+  height: 400px;
+  width: 800px;
+}
+
+.homerowthree ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.homerowthree ul li{
+  background-color: white;
+  border-style: solid;
+  height: 300px;
+  width: 400px;
+}
+
+.link{
+  color: grey;
+  text-decoration: none;
+}
+.link:hover{
+  color:black;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 900px){
+
+.homerow ul{
+  display: flow-root;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.rows{
+  height: 250px;
+  width: 450px;
+}
+.sketch{
+  height:400px;
+  width: 300px;
+}
+
+.nutritionsection{
+  height: 250px;
+  width: 450px;
+}
+
+}
