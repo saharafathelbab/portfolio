@@ -120,18 +120,18 @@
 @media screen and (max-width: 1440px){
   .link-stuff{
   position: absolute;
-  left: 1200px;
+  left: 1000px;
 }
 .navbar{
   width: 1440px;
 }
 
 }
-@media screen and (max-width: 1279px){
+@media screen and (max-width: 1280px){
 
   .link-stuff{
   position: absolute;
-  left: 860px;
+  left: 890px;
 }
 .navbar{
   width: 1279px;
