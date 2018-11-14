@@ -116,6 +116,10 @@
 .mobile-first{
   display: none;
 }
+
+.mobile_space{
+  display: none;
+}
 /* MEDIA QUERIES  */
 @media screen and (max-width: 1440px){
   .link-stuff{
@@ -136,7 +140,7 @@
   width: 1366px;
 }
 
-.mobile_spacing{
+.mobile_space{
   display: block;
 }
 
@@ -148,6 +152,9 @@
 }
 .navbar{
   width: 1279px;
+}
+.mobile_space{
+  display: none;
 }
 
 }
