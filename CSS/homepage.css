@@ -127,8 +127,24 @@
 }
 
 }
-@media screen and (max-width: 1280px){
+@media screen and (max-width: 1366px), screen and (max-height: 317px){
+  .link-stuff{
+  position: absolute;
+  left: 1000px;
+}
+.navbar{
+  width: 1366px;
+}
 
+.mobile_spacing{
+  display: block;
+}
+
+}
+@media screen and (max-width: 1280px){
+  .mobile_spacing{
+    display: none;
+  }
   .link-stuff{
   position: absolute;
   left: 895px;
