@@ -1,4 +1,4 @@
-# Snowy Potter - Holiday Card
+# Snowy Potter - Augmented Reality Holiday Card
 <p align="center">
   <img src="../images_project/snowypotter.jpeg" height= "420" width="600"/>
 </p>
@@ -14,5 +14,4 @@ This project was created as part of a Holiday Challenge with the meetup group A-
 #### Technologies Used
 
 * Glitch
-* Coded in HTML & CSS
 * A-Frame Library
