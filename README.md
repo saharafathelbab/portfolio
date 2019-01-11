@@ -3,6 +3,8 @@
   <img src="./documentation/Portfolio_Redesign/images/homepage_desktop.png" alt="drawing" height= "400" width="800"/>
 </p>
 
+**[View Live](https://saharafathelbab.github.io/portfolio/)**
+
 ### Table of Contents
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
