@@ -4,6 +4,7 @@
 </p>
 
 **[View Live](https://saharafathelbab.github.io/portfolio/)**
+<br>
 **[View Deailed Documentation](https://saharafathelbab.github.io/portfolio/documentation/Portfolio_Redesign/Portfolio_Documentation.html?)**
 
 ### Table of Contents
