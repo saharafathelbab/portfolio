@@ -1,4 +1,4 @@
-# Cryptography - Inspired by book Code Girls
+# Cryptography
 <p align="center">
   <img src="../../images_project/cryptography.png" height= "420" width="600"/>
 </p>
