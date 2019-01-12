@@ -18,3 +18,6 @@ meet like-minded people.
 * Storyboard
 * Axure
 
+#### Special Note:
+
+My team and I received the highest grade for our project in this Human Computer Interaction Course.
