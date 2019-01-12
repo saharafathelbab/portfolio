@@ -19,7 +19,6 @@ as books and articles to read, based on her interests, to emphasize the importan
 #### Technologies Used
 
 * HTML & CSS
-* JavaScript
 
 #### Special Note:
 
