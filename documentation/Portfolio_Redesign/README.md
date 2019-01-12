@@ -71,8 +71,8 @@ View Documentation & View Project.
 On mobile, the image relating to the project is above the elevator pitch and buttons.
 
 <p align="center">
-  <img src="./documentation/Portfolio_Redesign/images/projectspage_desktop.png" height= "400" width="800"/>
-  <img src="./documentation/Portfolio_Redesign/images/projects_mobile.gif" height= "400" width="220"/>
+  <img src="images/projectspage_desktop.png" height= "400" width="800"/>
+  <img src="images/projects_mobile.gif" height= "400" width="220"/>
 </p>
 
 #### Documentation Page
