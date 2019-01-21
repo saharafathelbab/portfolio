@@ -121,7 +121,828 @@
   display: none;
 }
 /* MEDIA QUERIES  */
-/* MEDIA QUERIES  */
+
+@media screen and (max-width: 1960px){
+.link-stuff{
+  position: absolute;
+  left: 1640px;
+}
+.navbar{
+  width: 1960px;
+}
+
+.button{
+  left: 885px;
+
+}
+
+}
+
+
+@media screen and (max-width: 1955px){
+.link-stuff{
+  position: absolute;
+  left: 1640px;
+}
+.navbar{
+  width: 1955px;
+}
+
+.button{
+  left: 885px;
+
+}
+
+}
+
+@media screen and (max-width: 1950px){
+.link-stuff{
+  position: absolute;
+  left: 1630px;
+}
+.navbar{
+  width: 1950px;
+}
+
+.button{
+  left: 880px;
+
+}
+
+}
+
+@media screen and (max-width: 1945px){
+.link-stuff{
+  position: absolute;
+  left: 1630px;
+}
+.navbar{
+  width: 1945px;
+}
+
+.button{
+  left: 880px;
+
+}
+
+}
+
+
+@media screen and (max-width: 1940px){
+.link-stuff{
+  position: absolute;
+  left: 1620px;
+}
+.navbar{
+  width: 1940px;
+}
+
+.button{
+  left: 880px;
+
+}
+
+}
+
+@media screen and (max-width: 1935px){
+.link-stuff{
+  position: absolute;
+  left: 1620px;
+}
+.navbar{
+  width: 1935px;
+}
+
+.button{
+  left: 875px;
+
+}
+
+}
+
+@media screen and (max-width: 1930px){
+.link-stuff{
+  position: absolute;
+  left: 1610px;
+}
+.navbar{
+  width: 1930px;
+}
+
+.button{
+  left: 875px;
+
+}
+
+}
+
+@media screen and (max-width: 1925px){
+.link-stuff{
+  position: absolute;
+  left: 1610px;
+}
+.navbar{
+  width: 1925px;
+}
+
+.button{
+  left: 875px;
+
+}
+
+}
+
+@media screen and (max-width: 1920px){
+.link-stuff{
+  position: absolute;
+  left: 1600px;
+}
+.navbar{
+  width: 1920px;
+}
+
+.button{
+  left: 875px;
+
+}
+
+}
+
+@media screen and (max-width: 1915px){
+.link-stuff{
+  position: absolute;
+  left: 1600px;
+}
+.navbar{
+  width: 1915px;
+}
+
+.button{
+  left: 875px;
+
+}
+
+}
+
+@media screen and (max-width: 1910px){
+.link-stuff{
+  position: absolute;
+  left: 1590px;
+}
+.navbar{
+  width: 1910px;
+}
+
+.button{
+  left: 875px;
+
+}
+
+}
+
+@media screen and (max-width: 1905px){
+.link-stuff{
+  position: absolute;
+  left: 1590px;
+}
+.navbar{
+  width: 1905px;
+}
+
+.button{
+  left: 870px;
+
+}
+
+}
+
+@media screen and (max-width: 1900px){
+.link-stuff{
+  position: absolute;
+  left: 1580px;
+}
+.navbar{
+  width: 1900px;
+}
+
+.button{
+  left: 870px;
+
+}
+
+}
+
+@media screen and (max-width: 1895px){
+.link-stuff{
+  position: absolute;
+  left: 1580px;
+}
+.navbar{
+  width: 1895px;
+}
+
+.button{
+  left: 870px;
+
+}
+
+}
+
+@media screen and (max-width: 1890px){
+.link-stuff{
+  position: absolute;
+  left: 1570px;
+}
+.navbar{
+  width: 1890px;
+}
+
+.button{
+  left: 865px;
+
+}
+
+}
+
+@media screen and (max-width: 1885px){
+.link-stuff{
+  position: absolute;
+  left: 1570px;
+}
+.navbar{
+  width: 1885px;
+}
+
+.button{
+  left: 865px;
+
+}
+
+}
+
+@media screen and (max-width: 1880px){
+.link-stuff{
+  position: absolute;
+  left: 1560px;
+}
+.navbar{
+  width: 1880px;
+}
+
+.button{
+  left: 860px;
+
+}
+
+}
+
+@media screen and (max-width: 1875px){
+.link-stuff{
+  position: absolute;
+  left: 1560px;
+}
+.navbar{
+  width: 1875px;
+}
+
+.button{
+  left: 860px;
+
+}
+
+}
+
+@media screen and (max-width: 1870px){
+.link-stuff{
+  position: absolute;
+  left: 1550px;
+}
+.navbar{
+  width: 1870px;
+}
+
+.button{
+  left: 855px;
+
+}
+
+}
+
+@media screen and (max-width: 1865px){
+.link-stuff{
+  position: absolute;
+  left: 1550px;
+}
+.navbar{
+  width: 1865px;
+}
+
+.button{
+  left: 855px;
+
+}
+
+}
+
+@media screen and (max-width: 1860px){
+.link-stuff{
+  position: absolute;
+  left: 1540px;
+}
+.navbar{
+  width: 1860px;
+}
+
+.button{
+  left: 855px;
+
+}
+
+}
+
+@media screen and (max-width: 1855px){
+.link-stuff{
+  position: absolute;
+  left: 1540px;
+}
+.navbar{
+  width: 1855px;
+}
+
+.button{
+  left: 850px;
+
+}
+
+}
+
+@media screen and (max-width: 1850px){
+.link-stuff{
+  position: absolute;
+  left: 1530px;
+}
+.navbar{
+  width: 1850px;
+}
+
+.button{
+  left: 850px;
+
+}
+
+}
+
+@media screen and (max-width: 1845px){
+.link-stuff{
+  position: absolute;
+  left: 1530px;
+}
+.navbar{
+  width: 1845px;
+}
+
+.button{
+  left: 850px;
+
+}
+
+}
+
+@media screen and (max-width: 1840px){
+.link-stuff{
+  position: absolute;
+  left: 1520px;
+}
+.navbar{
+  width: 1840px;
+}
+
+.button{
+  left: 850px;
+
+}
+
+}
+
+@media screen and (max-width: 1835px){
+.link-stuff{
+  position: absolute;
+  left: 1520px;
+}
+.navbar{
+  width: 1835px;
+}
+
+.button{
+  left: 845px;
+
+}
+
+}
+
+@media screen and (max-width: 1830px){
+.link-stuff{
+  position: absolute;
+  left: 1510px;
+}
+.navbar{
+  width: 1830px;
+}
+
+.button{
+  left: 845px;
+
+}
+
+}
+
+@media screen and (max-width: 1825px){
+.link-stuff{
+  position: absolute;
+  left: 1510px;
+}
+.navbar{
+  width: 1825px;
+}
+
+.button{
+  left: 840px;
+
+}
+
+}
+
+@media screen and (max-width: 1820px){
+.link-stuff{
+  position: absolute;
+  left: 1500px;
+}
+.navbar{
+  width: 1820px;
+}
+
+.button{
+  left: 840px;
+
+}
+
+}
+
+@media screen and (max-width: 1815px){
+.link-stuff{
+  position: absolute;
+  left: 1500px;
+}
+.navbar{
+  width: 1815px;
+}
+
+.button{
+  left: 835px;
+
+}
+
+}
+
+@media screen and (max-width: 1810px){
+.link-stuff{
+  position: absolute;
+  left: 1490px;
+}
+.navbar{
+  width: 1810px;
+}
+
+.button{
+  left: 835px;
+
+}
+
+}
+
+@media screen and (max-width: 1805px){
+.link-stuff{
+  position: absolute;
+  left: 1490px;
+}
+.navbar{
+  width: 1805px;
+}
+
+.button{
+  left: 830px;
+
+}
+
+}
+
+@media screen and (max-width: 1800px){
+.link-stuff{
+  position: absolute;
+  left: 1480px;
+}
+.navbar{
+  width: 1800px;
+}
+
+.button{
+  left: 830px;
+
+}
+
+}
+
+@media screen and (max-width: 1790px){
+.link-stuff{
+  position: absolute;
+  left: 1470px;
+}
+.navbar{
+  width: 1790px;
+}
+
+.button{
+  left: 825px;
+
+}
+
+}
+
+
+@media screen and (max-width: 1785px){
+.link-stuff{
+  position: absolute;
+  left: 1470px;
+}
+.navbar{
+  width: 1785px;
+}
+
+.button{
+  left: 825px;
+
+}
+
+}
+
+@media screen and (max-width: 1780px){
+.link-stuff{
+  position: absolute;
+  left: 1460px;
+}
+.navbar{
+  width: 1780px;
+}
+
+.button{
+  left: 825px;
+
+}
+
+}
+
+@media screen and (max-width: 1775px){
+.link-stuff{
+  position: absolute;
+  left: 1460px;
+}
+.navbar{
+  width: 1775px;
+}
+
+.button{
+  left: 820px;
+
+}
+
+}
+
+@media screen and (max-width: 1770px){
+.link-stuff{
+  position: absolute;
+  left: 1450px;
+}
+.navbar{
+  width: 1770px;
+}
+
+.button{
+  left: 820px;
+
+}
+
+}
+
+@media screen and (max-width: 1765px){
+.link-stuff{
+  position: absolute;
+  left: 1450px;
+}
+.navbar{
+  width: 1765px;
+}
+
+.button{
+  left: 810px;
+
+}
+
+}
+
+@media screen and (max-width: 1760px){
+.link-stuff{
+  position: absolute;
+  left: 1440px;
+}
+.navbar{
+  width: 1760px;
+}
+
+.button{
+  left: 810px;
+
+}
+
+}
+
+
+@media screen and (max-width: 1755px){
+.link-stuff{
+  position: absolute;
+  left: 1440px;
+}
+.navbar{
+  width: 1755px;
+}
+
+.button{
+  left: 810px;
+
+}
+
+}
+
+@media screen and (max-width: 1750px){
+.link-stuff{
+  position: absolute;
+  left: 1430px;
+}
+.navbar{
+  width: 1750px;
+}
+
+.button{
+  left: 805px;
+
+}
+
+}
+
+
+@media screen and (max-width: 1745px){
+.link-stuff{
+  position: absolute;
+  left: 1430px;
+}
+.navbar{
+  width: 1745px;
+}
+
+.button{
+  left: 805px;
+
+}
+
+}
+
+@media screen and (max-width: 1740px){
+.link-stuff{
+  position: absolute;
+  left: 1420px;
+}
+.navbar{
+  width: 1740px;
+}
+
+.button{
+  left: 800px;
+
+}
+
+}
+
+@media screen and (max-width: 1735px){
+.link-stuff{
+  position: absolute;
+  left: 1420px;
+}
+.navbar{
+  width: 1735px;
+}
+
+.button{
+  left: 800px;
+
+}
+
+}
+
+@media screen and (max-width: 1730px){
+.link-stuff{
+  position: absolute;
+  left: 1410px;
+}
+.navbar{
+  width: 1730px;
+}
+
+.button{
+  left: 800px;
+
+}
+
+}
+
+@media screen and (max-width: 1725px){
+.link-stuff{
+  position: absolute;
+  left: 1410px;
+}
+.navbar{
+  width: 1725px;
+}
+
+.button{
+  left: 800px;
+
+}
+
+}
+
+@media screen and (max-width: 1720px){
+.link-stuff{
+  position: absolute;
+  left: 1400px;
+}
+.navbar{
+  width: 1720px;
+}
+
+.button{
+  left: 790px;
+
+}
+
+}
+
+@media screen and (max-width: 1715px){
+.link-stuff{
+  position: absolute;
+  left: 1400px;
+}
+.navbar{
+  width: 1715px;
+}
+
+.button{
+  left: 790px;
+
+}
+
+}
+
+@media screen and (max-width: 1710px){
+.link-stuff{
+  position: absolute;
+  left: 1390px;
+}
+.navbar{
+  width: 1710px;
+}
+
+.button{
+  left: 780px;
+
+}
+
+}
+
+@media screen and (max-width: 1705px){
+.link-stuff{
+  position: absolute;
+  left: 1390px;
+}
+.navbar{
+  width: 1705px;
+}
+
+.button{
+  left: 780px;
+
+}
+
+}
+
 
 @media screen and (max-width: 1700px){
 .link-stuff{
