@@ -121,8 +121,801 @@
   display: none;
 }
 /* MEDIA QUERIES  */
-@media screen and (max-width: 1440px){
+/* MEDIA QUERIES  */
+
+@media screen and (max-width: 1700px){
+.link-stuff{
+  position: absolute;
+  left: 1380px;
+}
+.navbar{
+  width: 1700px;
+}
+
+.button{
+  left: 770px;
+
+}
+
+}
+
+@media screen and (max-width: 1695px){
+.link-stuff{
+  position: absolute;
+  left: 1380px;
+}
+.navbar{
+  width: 1695px;
+}
+
+.button{
+  left: 770px;
+
+}
+
+}
+
+@media screen and (max-width: 1690px){
+.link-stuff{
+  position: absolute;
+  left: 1370px;
+}
+.navbar{
+  width: 1690px;
+}
+
+.button{
+  left: 760px;
+
+}
+
+}
+
+@media screen and (max-width: 1685px){
+.link-stuff{
+  position: absolute;
+  left: 1370px;
+}
+.navbar{
+  width: 1685px;
+}
+
+.button{
+  left: 760px;
+
+}
+
+}
+
+@media screen and (max-width: 1680px){
+.link-stuff{
+  position: absolute;
+  left: 1360px;
+}
+.navbar{
+  width: 1680px;
+}
+
+.button{
+  left: 760px;
+
+}
+
+}
+
+@media screen and (max-width: 1675px){
+.link-stuff{
+  position: absolute;
+  left: 1360px;
+}
+.navbar{
+  width: 1675px;
+}
+
+.button{
+  left: 760px;
+
+}
+
+}
+
+@media screen and (max-width: 1670px){
+.link-stuff{
+  position: absolute;
+  left: 1350px;
+}
+.navbar{
+  width: 1670px;
+}
+
+.button{
+  left: 760px;
+
+}
+
+}
+
+@media screen and (max-width: 1665px){
+.link-stuff{
+  position: absolute;
+  left: 1350px;
+}
+.navbar{
+  width: 1665px;
+}
+
+.button{
+  left: 760px;
+
+}
+
+}
+
+@media screen and (max-width: 1660px){
+.link-stuff{
+  position: absolute;
+  left: 1340px;
+}
+.navbar{
+  width: 1660px;
+}
+
+.button{
+  left: 750px;
+
+}
+
+}
+
+@media screen and (max-width: 1655px){
+.link-stuff{
+  position: absolute;
+  left: 1340px;
+}
+.navbar{
+  width: 1655px;
+}
+
+.button{
+  left: 740px;
+
+}
+
+}
+
+@media screen and (max-width: 1650px){
+.link-stuff{
+  position: absolute;
+  left: 1330px;
+}
+.navbar{
+  width: 1650px;
+}
+
+.button{
+  left: 740px;
+
+}
+
+}
+
+@media screen and (max-width: 1645px){
+.link-stuff{
+  position: absolute;
+  left: 1330px;
+}
+.navbar{
+  width: 1645px;
+}
+
+.button{
+  left: 740px;
+
+}
+
+}
+
+@media screen and (max-width: 1640px){
+.link-stuff{
+  position: absolute;
+  left: 1320px;
+}
+.navbar{
+  width: 1640px;
+}
+
+.button{
+  left: 740px;
+
+}
+
+}
+
+@media screen and (max-width: 1630px){
+.link-stuff{
+  position: absolute;
+  left: 1310px;
+}
+.navbar{
+  width: 1630px;
+}
+
+.button{
+  left: 740px;
+
+}
+
+}
+
+@media screen and (max-width: 1625px){
+.link-stuff{
+  position: absolute;
+  left: 1310px;
+}
+.navbar{
+  width: 1625px;
+}
+
+.button{
+  left: 730px;
+
+}
+
+}
+
+@media screen and (max-width: 1620px){
+.link-stuff{
+  position: absolute;
+  left: 1300px;
+}
+.navbar{
+  width: 1620px;
+}
+
+.button{
+  left: 730px;
+
+}
+
+}
+
+@media screen and (max-width: 1615px){
+.link-stuff{
+  position: absolute;
+  left: 1300px;
+}
+.navbar{
+  width: 1615px;
+}
+
+.button{
+  left: 730px;
+
+}
+
+}
+
+@media screen and (max-width: 1610px){
+.link-stuff{
+  position: absolute;
+  left: 1290px;
+}
+.navbar{
+  width: 1610px;
+}
+
+.button{
+  left: 730px;
+
+}
+
+}
+
+@media screen and (max-width: 1605px){
+.link-stuff{
+  position: absolute;
+  left: 1280px;
+}
+.navbar{
+  width: 1605px;
+}
+
+.button{
+  left: 720px;
+
+}
+
+}
+
+@media screen and (max-width: 1600px){
   .link-stuff{
+  position: absolute;
+  left: 1280px;
+}
+.navbar{
+  width: 1600px;
+}
+
+.button{
+  left: 720px;
+
+}
+
+}
+
+@media screen and (max-width: 1595px){
+.link-stuff{
+  position: absolute;
+  left: 1280px;
+}
+.navbar{
+  width: 1595px;
+}
+
+.button{
+  left: 720px;
+
+}
+
+}
+
+@media screen and (max-width: 1590px){
+.link-stuff{
+  position: absolute;
+  left: 1270px;
+}
+.navbar{
+  width: 1590px;
+}
+
+.button{
+  left: 710px;
+
+}
+
+}
+
+@media screen and (max-width: 1585px){
+.link-stuff{
+  position: absolute;
+  left: 1260px;
+}
+.navbar{
+  width: 1585px;
+}
+
+.button{
+  left: 710px;
+
+}
+
+}
+
+@media screen and (max-width: 1580px){
+.link-stuff{
+  position: absolute;
+  left: 1250px;
+}
+.navbar{
+  width: 1580px;
+}
+
+.button{
+  left: 710px;
+
+}
+
+}
+
+@media screen and (max-width: 1575px){
+.link-stuff{
+  position: absolute;
+  left: 1250px;
+}
+.navbar{
+  width: 1575px;
+}
+
+.button{
+  left: 700px;
+
+}
+
+}
+
+@media screen and (max-width: 1570px){
+.link-stuff{
+  position: absolute;
+  left: 1250px;
+}
+.navbar{
+  width: 1570px;
+}
+
+.button{
+  left: 700px;
+
+}
+
+}
+
+@media screen and (max-width: 1565px){
+.link-stuff{
+  position: absolute;
+  left: 1250px;
+}
+.navbar{
+  width: 1565px;
+}
+
+.button{
+  left: 700px;
+
+}
+
+}
+
+@media screen and (max-width: 1560px){
+.link-stuff{
+  position: absolute;
+  left: 1240px;
+}
+.navbar{
+  width: 1560px;
+}
+
+.button{
+  left: 690px;
+
+}
+
+}
+
+@media screen and (max-width: 1555px){
+.link-stuff{
+  position: absolute;
+  left: 1240px;
+}
+.navbar{
+  width: 1555px;
+}
+
+.button{
+  left: 690px;
+
+}
+
+}
+
+@media screen and (max-width: 1550px){
+.link-stuff{
+  position: absolute;
+  left: 1230px;
+}
+.navbar{
+  width: 1550px;
+}
+
+.button{
+  left: 690px;
+
+}
+
+}
+
+@media screen and (max-width: 1545px){
+.link-stuff{
+  position: absolute;
+  left: 1230px;
+}
+.navbar{
+  width: 1545px;
+}
+
+.button{
+  left: 690px;
+
+}
+
+}
+
+@media screen and (max-width: 1540px){
+.link-stuff{
+  position: absolute;
+  left: 1220px;
+}
+.navbar{
+  width: 1540px;
+}
+
+.button{
+  left: 690px;
+
+}
+
+}
+
+@media screen and (max-width: 1535px){
+.link-stuff{
+  position: absolute;
+  left: 1220px;
+}
+.navbar{
+  width: 1535px;
+}
+
+.button{
+  left: 690px;
+
+}
+
+}
+
+@media screen and (max-width: 1530px){
+.link-stuff{
+  position: absolute;
+  left: 1210px;
+}
+.navbar{
+  width: 1530px;
+}
+
+.button{
+  left: 680px;
+
+}
+
+}
+
+@media screen and (max-width: 1525px){
+.link-stuff{
+  position: absolute;
+  left: 1210px;
+}
+.navbar{
+  width: 1525px;
+}
+
+.button{
+  left: 670px;
+
+}
+
+}
+
+@media screen and (max-width: 1520px){
+.link-stuff{
+  position: absolute;
+  left: 1200px;
+}
+.navbar{
+  width: 1520px;
+}
+
+.button{
+  left: 670px;
+
+}
+
+}
+
+@media screen and (max-width: 1515px){
+.link-stuff{
+  position: absolute;
+  left: 1200px;
+}
+.navbar{
+  width: 1515px;
+}
+
+.button{
+  left: 670px;
+
+}
+
+}
+
+@media screen and (max-width: 1510px){
+.link-stuff{
+  position: absolute;
+  left: 1190px;
+}
+.navbar{
+  width: 1510px;
+}
+
+.button{
+  left: 655px;
+
+}
+
+}
+
+@media screen and (max-width: 1505px){
+.link-stuff{
+  position: absolute;
+  left: 1190px;
+}
+.navbar{
+  width: 1505px;
+}
+.button{
+  left: 655px;
+
+}
+}
+
+@media screen and (max-width: 1500px){
+.link-stuff{
+  position: absolute;
+  left: 1180px;
+}
+.navbar{
+  width: 1500px;
+}
+.button{
+  left: 655px;
+
+}
+}
+
+@media screen and (max-width: 1495px){
+.link-stuff{
+  position: absolute;
+  left: 1180px;
+}
+.navbar{
+  width: 1495px;
+}
+
+.button{
+  left: 650px;
+
+}
+
+}
+
+@media screen and (max-width: 1490px){
+.link-stuff{
+  position: absolute;
+  left: 1170px;
+}
+.navbar{
+  width: 1490px;
+}
+
+.button{
+  left: 650px;
+
+}
+
+}
+
+@media screen and (max-width: 1485px){
+.link-stuff{
+  position: absolute;
+  left: 1160px;
+}
+.navbar{
+  width: 1485px;
+}
+
+.button{
+  left: 650px;
+
+}
+
+}
+
+@media screen and (max-width: 1470px){
+.link-stuff{
+  position: absolute;
+  left: 1150px;
+}
+.navbar{
+  width: 1470px;
+}
+.button{
+  left: 650px;
+
+}
+}
+
+@media screen and (max-width: 1465px){
+.link-stuff{
+  position: absolute;
+  left: 1150px;
+}
+.navbar{
+  width: 1465px;
+}
+.button{
+  left: 650px;
+
+}
+}
+
+@media screen and (max-width: 1460px){
+.link-stuff{
+  position: absolute;
+  left: 1140px;
+}
+.navbar{
+  width: 1460px;
+}
+
+.button{
+  left: 650px;
+
+}
+
+}
+
+@media screen and (max-width: 1455px){
+.link-stuff{
+  position: absolute;
+  left: 1130px;
+}
+.navbar{
+  width: 1455px;
+}
+.button{
+  left: 650px;
+
+}
+
+}
+
+@media screen and (max-width: 1450px){
+.link-stuff{
+  position: absolute;
+  left: 1120px;
+}
+.navbar{
+  width: 1450px;
+}
+
+.button{
+  left: 650px;
+
+}
+
+}
+@media screen and (max-width: 1445px){
+.link-stuff{
+  position: absolute;
+  left: 1090px;
+}
+.navbar{
+  width: 1445px;
+}
+
+.button{
+  left: 640px;
+
+}
+
+}
+
+
+@media screen and (max-width: 1440px){
+.link-stuff{
+  position: absolute;
+  left: 1090px;
+}
+.navbar{
+  width: 1440px;
+}
+
+.button{
+  left: 600px;
+
+}
+
+}
+
+@media screen and (max-width: 1400px){
+.link-stuff{
   position: absolute;
   left: 1090px;
 }
@@ -131,8 +924,9 @@
 }
 
 }
+
 @media screen and (max-width: 1366px), screen and (max-height: 317px){
-  .link-stuff{
+.link-stuff{
   position: absolute;
   left: 1000px;
 }
@@ -146,7 +940,7 @@
 
 }
 @media screen and (max-width: 1280px){
-  .link-stuff{
+.link-stuff{
   position: absolute;
   left: 895px;
 }
@@ -156,12 +950,15 @@
 .mobile_space{
   display: none;
 }
+.button{
+  left: 550px;
 
+}
 }
 
 @media screen and (max-width: 1204px){
 
-  .link-stuff{
+.link-stuff{
   position: absolute;
   left: 800px;
 }
@@ -172,7 +969,7 @@
 
 @media screen and (max-width: 1105px){
 
-  .link-stuff{
+.link-stuff{
   position: absolute;
   left: 700px;
 }
@@ -187,12 +984,12 @@
 
 @media screen and (max-width: 1007px){
 
-  .main{
+.main{
   height: 712px;
   width: 1000px;
 }
 
-  .link-stuff{
+.link-stuff{
   position: absolute;
   left: 600px;
 }
@@ -207,12 +1004,12 @@
 
 @media screen and (max-width: 909px){
 
-  .main{
+.main{
   height: 812px;
   width: 900px;
 }
 
-  .link-stuff{
+.link-stuff{
   position: absolute;
   left: 500px;
 }
@@ -227,12 +1024,12 @@
 
 @media screen and (max-width: 809px){
 
-  .main{
+.main{
   height: 812px;
   width: 900px;
 }
 
-  .link-stuff{
+.link-stuff{
   position: absolute;
   left: 400px;
 }
@@ -247,7 +1044,7 @@
 
 @media screen and (max-width: 784px){
 
-    .main{
+.main{
   height: 812px;
   width: 800px;
 }
@@ -255,7 +1052,7 @@
 
 @media screen and (max-width: 709px){
 
-  .link-stuff{
+.link-stuff{
   position: absolute;
   left: 500px;
   top: 23px;
@@ -297,7 +1094,7 @@
   .button{
   left: 240px;
 
-}
+  }
   .link-stuff{
   position: absolute;
   left: 410px;
@@ -308,21 +1105,21 @@
 @media screen and (max-width: 592px){
 
     .main{
-        background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
+    background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
     height:812px;
     width: 640px;
   }
 
    .link-stuff{
-  position: absolute;
-  left: 380px;
+    position: absolute;
+    left: 380px;
 }
 
 }
 
 @media screen and (max-width: 562px){
 
-   .link-stuff{
+  .link-stuff{
   position: absolute;
   left: 340px;
 }
@@ -331,22 +1128,22 @@
 
 @media screen and (max-width: 537px){
 
-      .main{
+    .main{
     background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
     height:812px;
     width: 600px;
   }
 
    .link-stuff{
-  position: absolute;
-  left: 320px;
+    position: absolute;
+    left: 320px;
 }
 
 }
 
 @media screen and (max-width: 504px){
 
-    .main{
+  .main{
     background-image: url('../images_home/nikita-kachanovsky-597646-unsplash.jpg');
     height:812px;
     width: 540px;
@@ -372,8 +1169,8 @@
   }
 
    .link-stuff{
-  position: absolute;
-  left: 280px;
+    position: absolute;
+    left: 280px;
 }
 
 }
