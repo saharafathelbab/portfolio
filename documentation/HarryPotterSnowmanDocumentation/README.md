@@ -1,6 +1,8 @@
 # Snowy Potter - Augmented Reality Holiday Card
 <p align="center">
-  <img src="../../images_project/snowypotter.jpeg" height= "420" width="600"/>
+   <video width="300" height="400" controls autoplay>
+      <source src="../../images/snowyvideo.mp4" type="video/mp4">
+    </video>
 </p>
 
 **[View Snowy Potter](https://mysnowman.glitch.me/?)**
