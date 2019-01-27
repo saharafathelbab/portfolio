@@ -1,12 +1,10 @@
 # Snowy Potter - Augmented Reality Holiday Card
 <p align="center">
-   <video width="300" height="400" controls autoplay>
-      <source src="../../images/snowyvideo.mp4" type="video/mp4">
-    </video>
+  <img src="../../images_project/snowypotter.jpeg" height= "420" width="600"/>
 </p>
 
 **[View Snowy Potter](https://mysnowman.glitch.me/?)**
-<br> 
+#### To view a video of the Augmented Snowy Potter appearing over a QR code:
 **[View Snowy Potter Documentation](https://saharafathelbab.github.io/portfolio/documentation/HarryPotterSnowmanDocumentation/HarryPotterInfo.html?)**
 
 #### General Information
