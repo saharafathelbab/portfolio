@@ -3,6 +3,7 @@
   <img src="../../images_project/snowypotter.jpeg" height= "420" width="600"/>
 </p>
 
+#### To view Snowy Potter in Glitch:
 **[View Snowy Potter](https://mysnowman.glitch.me/?)**
 #### To view a video of the Augmented Snowy Potter appearing over a QR code:
 **[View Snowy Potter Documentation](https://saharafathelbab.github.io/portfolio/documentation/HarryPotterSnowmanDocumentation/HarryPotterInfo.html?)**
