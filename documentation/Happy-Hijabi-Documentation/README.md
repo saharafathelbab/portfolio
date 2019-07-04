@@ -1,6 +1,6 @@
 # CSS Shapes - Happy Hijabi
 <p align="center">
-  <img src="../images_project/happy-hijabi.png" height= "300" width="500"/>
+  <img src="../../images_project/happy-hijabi.png" height= "300" width="500"/>
 </p>
 
 #### To View Happy Hijabi Live:
