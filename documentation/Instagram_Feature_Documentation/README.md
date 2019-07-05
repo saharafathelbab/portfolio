@@ -28,7 +28,7 @@ The idea is that when a user clicks on a profile from their main feed, a small p
 so the user is reminded they are in essence on an extension from their main feed viewing a profile. To ensure the user doesn't
 forget they are scrolling on a profile they came to from the main feed, the small profile circle provides the reminder.
 
-When users click on the home button, the return back to the spot they were on the main feed before selecting to view
+When users click on the home button, they return back to the spot they were on the main feed before selecting to view
 a profile in depth.
 
 
